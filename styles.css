@@ -1,0 +1,27 @@
+h1 {
+  text-decoration: underline;
+  text-decoration-color: #82B3E8;
+  font-family: 'Josefin Sans', sans-serif;
+  color: #82B3E8;
+}
+body{
+  background-color:
+}
+
+div {
+  width: 250px;
+  border: 5px solid #82B3E8;
+  padding: 50px;
+  margin: 20px;
+}
+p {
+  font-family: 'Josefin Sans', sans-serif;
+  color: #807E85;
+}
+iframe {
+  width: 250px;
+  height: 200px;
+  border: 5px solid #82B3E8;
+  padding: 20px;
+  margin: 10px;
+}
